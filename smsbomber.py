@@ -1,7 +1,7 @@
 import pyautogui 
 import time
 
-a = int(input("how many times?: "))
+a = int(input("how many times?: ")
 
 b = input("message: ")
 
